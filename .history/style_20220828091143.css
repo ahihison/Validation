@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+html{
+    color: #333;
+    font-size: 62.5%;
+    font-family: "Open Sans", sans-serif;
+}
+
+.container{
+min-height: 100vh;
+display: flex;
+justify-content: center;
+
+}
+.form{
+    width: 360px;
+    padding: 32px 24px;
+    min-height: 100px;
+    text-align: center;
+    background: #fff;
+    border-radius: 2px;
+     text-align: center;
+  background: #fff;
+  border-radius: 2px;
+  margin: 24px;
+  align-self: center;
+  box-shadow: 0 2px 5px 0 rgba(51, 62, 73, 0.1);
+    align-self: center;
+    box-shadow: 0 2px 5px 0 rgba(51, 62, 73, 0.1);
+
+
+}
+.heading{
+
+}
+.desc{
+
+}
+.spacer{
+
+}
+.form-group{
+
+}
+.form-control{
+
+}
+.form-message{
+
+
+}
+
